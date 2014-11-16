@@ -1,7 +1,18 @@
 #header{
-	background-origin: 
+	
 }
 
-p{
-	color:red;
+
+body{
+	padding-top: 50px
+
+}
+.jumbotron{
+	height:350px;
+	background-image: url("https://farm9.staticflickr.com/8181/7977057814_eafcd2edac_z.jpg");
+	background-size:cover;
+	padding-top: 0;
+}
+.container{
+	text-align: center;
 }
